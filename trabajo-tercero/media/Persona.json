@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Medina",
+        "dni": "1234567890",
+        "fechaNacimiento": "12/12/2020",
+        "sexo": "Masculino",
+        "numCelular": "0987654321",
+        "tipo": "Cedula"
+    },
+    {
+        "id": 2,
+        "nombre": "Diego",
+        "apellido": "Fuentes",
+        "dni": "1291067120",
+        "fechaNacimiento": "12/12/2020",
+        "sexo": "Masculino",
+        "numCelular": "0981901238",
+        "tipo": "Cedula"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis",
+        "apellido": "Gonzales",
+        "dni": "11524584745",
+        "fechaNacimiento": "2006-02-05",
+        "sexo": "Masculino",
+        "numCelular": "0999255458",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 4,
+        "nombre": "Maria",
+        "apellido": "Quiñonez",
+        "dni": "110522263545",
+        "fechaNacimiento": "2001-06-05",
+        "sexo": "Femenina",
+        "numCelular": "0952654128",
+        "tipo": "PASAPORTE"
+    },
+    {
+        "id": 5,
+        "nombre": "Ivan",
+        "apellido": "Fernandez",
+        "dni": "1724396633",
+        "fechaNacimiento": "2002-05-11",
+        "sexo": "Masculino",
+        "numCelular": "0953625412",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 6,
+        "nombre": "Dayana",
+        "apellido": "Ramirez",
+        "dni": "1148576952",
+        "fechaNacimiento": "2005-07-28",
+        "sexo": "Femenino",
+        "numCelular": "0952658745",
+        "tipo": "RUC"
+    },
+    {
+        "id": 7,
+        "nombre": "Emily",
+        "apellido": "Juarez",
+        "dni": "1152487965",
+        "fechaNacimiento": "2001-06-05",
+        "sexo": "Femenino",
+        "numCelular": "0963528741",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 8,
+        "nombre": "Lisbeth",
+        "apellido": "Malla",
+        "dni": "1152487559",
+        "fechaNacimiento": "2003-05-06",
+        "sexo": "Femenino",
+        "numCelular": "0996587445",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 9,
+        "nombre": "Alejandro",
+        "apellido": "Jaramillo",
+        "dni": "1154285569",
+        "fechaNacimiento": "2003-08-05",
+        "sexo": "Masculino",
+        "numCelular": "0987456325",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 10,
+        "nombre": "Jose",
+        "apellido": "Riofrio",
+        "dni": "1150244489",
+        "fechaNacimiento": "2002-06-12",
+        "sexo": "Masculino",
+        "numCelular": "0985101006",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 11,
+        "nombre": "Jomaira",
+        "apellido": "Rios",
+        "dni": "1125448755",
+        "fechaNacimiento": "1985-08-05",
+        "sexo": "Femenino",
+        "numCelular": "0963258741",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 12,
+        "nombre": "Erick",
+        "apellido": "Chango",
+        "dni": "1025478563",
+        "fechaNacimiento": "2003-06-01",
+        "sexo": "Masculino",
+        "numCelular": "0963584115",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 13,
+        "nombre": "Anderson",
+        "apellido": "Tello",
+        "dni": "1154788541",
+        "fechaNacimiento": "2003-05-12",
+        "sexo": "Masculino",
+        "numCelular": "0963355874",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 14,
+        "nombre": "Jorge",
+        "apellido": "Garcia",
+        "dni": "1154789652",
+        "fechaNacimiento": "2003-05-12",
+        "sexo": "Masculino",
+        "numCelular": "0963258741",
+        "tipo": "CEDULA"
+    },
+    {
+        "id": 15,
+        "nombre": "Luis",
+        "apellido": "Maldonado",
+        "dni": "1154556844",
+        "fechaNacimiento": "2000-06-28",
+        "sexo": "Masculino",
+        "numCelular": "0996587445001",
+        "tipo": "RUC"
+    }
+]
